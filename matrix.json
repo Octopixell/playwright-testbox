@@ -1,0 +1,11 @@
+{
+  "node-version": [
+    "lts",
+    "22",
+    "20",
+    "18"
+  ],
+  "playwright-version": [
+    "1.49.1"
+  ]
+}
