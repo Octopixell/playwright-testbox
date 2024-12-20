@@ -38,4 +38,4 @@ Image: octopixell/playwright-testbox:node-lts-playwright-1.49.1 (digest: sha256:
 | `node-18-playwright-1.49.1` | `node:18` | ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/octopixell/playwright-testbox/node-18-playwright-1.49.1) |
 | `node-20-playwright-1.49.1` | `node:20` | ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/octopixell/playwright-testbox/node-20-playwright-1.49.1) |
 | `node-22-playwright-1.49.1` | `node:22` | ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/octopixell/playwright-testbox/node-22-playwright-1.49.1) |
-| `node-lts-playwright-1.49.1` | `node:lts` | ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/octopixell/playwright-testbox/node-lt-playwright-1.49.1) |
+| `node-lts-playwright-1.49.1` | `node:lts` | ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/octopixell/playwright-testbox/node-lts-playwright-1.49.1) |
